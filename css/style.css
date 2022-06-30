@@ -40,3 +40,12 @@
     display: flex;
     justify-content: center;
 }
+
+/* dispositivos pequeños */
+@media all and (max-width: 767px){
+
+    .items{
+        width: 380px;
+
+    }
+}
