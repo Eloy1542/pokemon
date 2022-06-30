@@ -1,0 +1,27 @@
+
+.imgbanner{
+    object-fit: cover;
+    width: 100%;
+    height: 400px;
+}
+.badge2{
+    background: rgb(214, 112, 250);
+}
+.badge3{
+    background: rgb(250, 137, 16);
+}
+.badge4{
+    background: rgb(42, 196, 42);
+}
+.cartas{
+    width: 300px;   
+   
+}
+.cartas2{
+    width: 400px;
+}
+.footer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
