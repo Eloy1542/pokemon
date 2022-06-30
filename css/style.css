@@ -20,7 +20,8 @@
     background: rgb(253, 116, 203);
 }
 .cartas{
-    width: 300px;   
+    width: 320px;
+     
    
 }
 .cartas2{
@@ -33,4 +34,9 @@
 }
 .fondo{
     background: rgb(172, 171, 171);
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
 }
