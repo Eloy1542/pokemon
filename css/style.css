@@ -13,6 +13,12 @@
 .badge4{
     background: rgb(42, 196, 42);
 }
+.badge5{
+    background: rgb(0, 174, 255);
+}
+.badge6{
+    background: rgb(253, 116, 203);
+}
 .cartas{
     width: 300px;   
    
@@ -24,4 +30,7 @@
     position: absolute;
     bottom: 0px;
     width: 100%;
+}
+.fondo{
+    background: rgb(172, 171, 171);
 }
